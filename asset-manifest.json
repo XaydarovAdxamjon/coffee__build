@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.266832ee.css",
+    "main.js": "/static/js/main.04222e11.js",
+    "static/media/planMain.png": "/static/media/planMain.574b00a13fc9911f65e5.png",
+    "static/media/Bitmap@2x.jpg": "/static/media/Bitmap@2x.1c8f8e11a622e8f73125.jpg",
+    "static/media/main.jpg": "/static/media/main.a15fb7e813a890c1850c.jpg",
+    "static/media/aboutUs.jpg": "/static/media/aboutUs.dca7d3b0188a55420ac9.jpg",
+    "static/media/aboutUsMobile.jpg": "/static/media/aboutUsMobile.69035b61ab861904889a.jpg",
+    "static/media/quality.png": "/static/media/quality.86b38d905521ddb48424.png",
+    "static/media/mainMobile.jpg": "/static/media/mainMobile.4600a49040933a0d979f.jpg",
+    "static/media/aboutUsTablet.jpg": "/static/media/aboutUsTablet.166fc37c23a2705bca42.jpg",
+    "static/media/qualityMobile.jpg": "/static/media/qualityMobile.a9b83eb02d3a3dca0ad0.jpg",
+    "static/media/Barlow-Bold.ttf": "/static/media/Barlow-Bold.0cb1ab864072bf9e0991.ttf",
+    "static/media/qualityMobile2.jpg": "/static/media/qualityMobile2.4fee382dfbe64ae49d55.jpg",
+    "static/media/Barlow-Regular.ttf": "/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "static/media/ourcollection.png": "/static/media/ourcollection.e577ec761a6bdd0ae8a1.png",
+    "static/media/Fraunces_9pt_Soft-Bold.ttf": "/static/media/Fraunces_9pt_Soft-Bold.ecde0a25727f7a9e180a.ttf",
+    "static/media/ourcollectionTablet.png": "/static/media/ourcollectionTablet.f1d8112cbba0223f1a27.png",
+    "static/media/collection1.png": "/static/media/collection1.0d1302ce7030465de35a.png",
+    "static/media/collection3.png": "/static/media/collection3.cf1f4e03f68870639245.png",
+    "static/media/collection4.png": "/static/media/collection4.6da4d5e2d0e4ab43aacf.png",
+    "static/media/collectionPhone.png": "/static/media/collectionPhone.ccd9b2287f0bf63b94f0.png",
+    "index.html": "/index.html",
+    "main.266832ee.css.map": "/static/css/main.266832ee.css.map",
+    "main.04222e11.js.map": "/static/js/main.04222e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266832ee.css",
+    "static/js/main.04222e11.js"
+  ]
+}
